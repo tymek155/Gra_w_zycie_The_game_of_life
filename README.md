@@ -1,6 +1,6 @@
 Go to [English version](#english-version)
 # Ogólne informacje
-Projekt realizuje implementację implementację "Gry w życie" Conwaya, z interfejsem graficznym Pygame. 
+Projekt realizuje implementację "Gry w życie" Conwaya, z interfejsem graficznym Pygame. 
 Aplikacja umożliwia symulację automatu komórkowego z różnymi predefiniowanymi wzorcami (glider, oscylator, 
 niezmienny, oscylator prosty, oscylator zabka, losowy), dwoma warunkami brzegowymi (periodyczny oraz 
 odbicia). Całość jest interaktywna, w czasie działania programu można ciągłe zmieniać wzorzec oraz warunki 
